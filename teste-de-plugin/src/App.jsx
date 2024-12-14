@@ -6,7 +6,7 @@ import CameraComponent from './camera/cmra.jsx';
 const App = () => {
   return (
     <div>
-      <h1>Bem-vindo à Aplicação</h1>
+      <h1>Bem-vindo à nossa Aplicação</h1>
       <CameraComponent />
     </div>
   );
