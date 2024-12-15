@@ -10,6 +10,8 @@ const root = document.getElementById('root');
 createRoot(root).render(
   <React.StrictMode>
     <App />
-    <CameraComponent />
+    
   </React.StrictMode>
 );
+
+export default CameraComponent;
